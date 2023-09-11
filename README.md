@@ -1,4 +1,4 @@
-Sure, here's a README file for your React app:
+
 
 # My React Shopping Cart App
 
